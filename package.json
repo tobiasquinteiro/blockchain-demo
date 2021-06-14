@@ -2,7 +2,7 @@
   "name": "blockchain-demo",
   "description": "A web-based demonstration of blockchain concepts.",
   "author": {
-    "name": "Anders Brownworth"
+    "name": "Tobias Quinteiro"
   },
   "version": "0.0.1",
   "keywords": [
@@ -15,28 +15,28 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anders94/blockchain-demo.git"
+    "url": "git+https://github.com/tobiasquinteiro/blockchain-demo.git"
   },
   "bugs": {
-    "url": "https://github.com/anders94/blockchain-demo/issues"
+    "url": "https://github.com/tobiasquinteiro/blockchain-demo/issues"
   },
   "license": "MIT",
   "dependencies": {
-    "async": "^1.4.2",
-    "body-parser": "^1.19.0",
-    "cookie-parser": "^1.4.4",
-    "debug": ">=2.6.9",
-    "express": "^4.17.1",
-    "i18n": "0.8.3",
-    "pug": "^3.0.1",
-    "morgan": ">=1.9.1",
-    "serve-favicon": "^2.5.0"
+    "async": "*",
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "debug": "*",
+    "express": "*",
+    "i18n": "*",
+    "pug": "*",
+    "morgan": "*",
+    "serve-favicon": "*"
   },
-  "homepage": "https://github.com/anders94/blockchain-demo#readme",
+  "homepage": "https://github.com/tobiasquinteiro/blockchain-demo#readme",
   "maintainers": [
     {
-      "name": "anders",
-      "email": "anders-git@evantide.com"
+	"name": "Tobias Quinteiro",
+	"email": "tobiasquinteiro@gmail.com"
     }
   ]
 }
